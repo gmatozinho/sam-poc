@@ -6,6 +6,7 @@ POC of using [AWS SAM](https://docs.aws.amazon.com/serverless-application-model/
 
 - [AWS vault](https://github.com/99designs/aws-vault)
 - [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html)
+- [AWS CLI](https://aws.amazon.com/pt/cli/)
 - [VSCODE](https://code.visualstudio.com/)
 - [AWS Toolkit](https://aws.amazon.com/pt/visualstudio/)
 
@@ -64,6 +65,12 @@ sam local invoke "HelloWorldFunction" -e events/event.json
 or
 
 Using debug with AWS Toolkit in VSCODE
+
+## Delete Stack
+
+```
+aws cloudformation delete-stack --stack-name sam-poc --region region
+```
 
 ## Continuous delivery
 
