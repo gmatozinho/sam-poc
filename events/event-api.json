@@ -15,7 +15,7 @@
     "extendedRequestId": "beBpoH0ToAMFfwA=",
     "requestTime": "28/Feb/2021:18:38:02 +0000",
     "path": "/test",
-    "accountId": "682018951785",
+    "accountId": "68201111111",
     "protocol": "HTTP/1.1",
     "stage": "test-invoke-stage",
     "domainPrefix": "testPrefix",
@@ -27,15 +27,15 @@
       "apiKey": "test-invoke-api-key",
       "principalOrgId": null,
       "cognitoAuthenticationType": null,
-      "userArn": "arn:aws:sts::682018951785:federated-user/gmatozinho",
+      "userArn": "arn:aws:sts::68201111111:federated-user/gmatozinho",
       "apiKeyId": "test-invoke-api-key-id",
       "userAgent": "aws-internal/3 aws-sdk-java/1.11.946 Linux/4.9.230-0.1.ac.223.84.332.metal1.x86_64 OpenJDK_64-Bit_Server_VM/25.282-b08 java/1.8.0_282 vendor/Oracle_Corporation",
-      "accountId": "682018951785",
-      "caller": "682018951785:gmatozinho",
+      "accountId": "68201111111",
+      "caller": "68201111111:gmatozinho",
       "sourceIp": "test-invoke-source-ip",
       "accessKey": "ASIAZ5S37KJUWSB6LLM5",
       "cognitoAuthenticationProvider": null,
-      "user": "682018951785:gmatozinho"
+      "user": "68201111111:gmatozinho"
     },
     "domainName": "testPrefix.testDomainName",
     "apiId": "6wvt36e1tb"
